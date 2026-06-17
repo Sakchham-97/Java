@@ -17,7 +17,7 @@ class car extends vehicle{
 
 }
 
-public class lab2{
+public class OOP{
     public static void main(String[]  args){
 
         bike b1 = new bike();
